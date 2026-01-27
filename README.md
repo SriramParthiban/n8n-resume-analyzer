@@ -1,6 +1,6 @@
 # 📄 Resume Analyzer Automation (n8n)
 
-This workflow automates **resume screening**: it extracts candidate details from resumes sent via Gmail, analyzes them using AI, and saves the results into Google Sheets.
+This workflow automates **resume screening**: it extracts candidate details from resumes sent via Gmail, analyzes them using AI, and saves the results into Google Sheets
 
 ---
 
